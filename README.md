@@ -18,6 +18,9 @@ What is the "view" rating for homes costing more than or equal to $350,000? Dete
 
 
 ![spark](https://github.com/albertdudek7/Home_Sales/assets/127783844/174c21f7-3bac-4777-b0a8-0b54851d39d8)
+![spark2](https://github.com/albertdudek7/Home_Sales/assets/127783844/13686e97-ae6e-4b04-a1df-adfe3213e450)
+![spark3](https://github.com/albertdudek7/Home_Sales/assets/127783844/a401b945-9c31-46ac-8245-f222d29c1f61)
+
 
 
 
